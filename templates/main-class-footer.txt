@@ -1,0 +1,11 @@
+/* Explicitly registers all embedded fonts on-demand. */
+public static function initFonts () : void {
+Font.registerFont(serif_italic_font_class);
+Font.registerFont(maidens_bold_font_class);
+Font.registerFont(serif_font_class);
+Font.registerFont(maidens_font_class);
+Font.registerFont(sans_font_class);
+Font.registerFont(serif_bold_font_class);
+}
+}
+}

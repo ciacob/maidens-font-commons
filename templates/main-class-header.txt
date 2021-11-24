@@ -1,0 +1,4 @@
+package eu.claudius.iacob {
+import flash.text.Font;
+ 
+public final class EmbeddedFontsHelper {
