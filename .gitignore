@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /.vscode
 /asconfig.json
 
@@ -11,3 +12,10 @@ bin-release/
 *.apk
 .vscode/
 asconfig.json
+=======
+
+/.vscode
+asconfig.json
+/bin
+/bin
+>>>>>>> bcdb2670e539e05894bec3c56dc73add837337e8
